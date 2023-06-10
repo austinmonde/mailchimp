@@ -1,2 +1,2 @@
 # mailchimp
-a simple application that takes in that stores personal emails
+a simple application that stores personal emails
